@@ -1,6 +1,6 @@
 ### 범고래와 친구들 👋
 
-<img src ="https://img.shields.io/badge/-javaScript-yellow"><img src ="https://img.shields.io/badge/-React-blue">
+<img src ="https://img.shields.io/badge/-javaScript-yellow"> <img src ="https://img.shields.io/badge/-React-blue">
 <!--
 **doityoo/doityoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
