@@ -6,7 +6,7 @@
 - ✍🏻 Programming Language  
   <img src ="https://img.shields.io/badge/-javaScript-yellow"> <img src ="https://img.shields.io/badge/-HTML-blue"> <img src ="https://img.shields.io/badge/-CSS-green">
 - ✍🏻 FrameWork & Library  
-  <img src ="https://img.shields.io/badge/-React-navy"> <img src ="https://img.shields.io/badge/-reduxToolkit-grey">
+  <img src ="https://img.shields.io/badge/-React-navy"> <img src ="https://img.shields.io/badge/-reduxToolkit-grey"> <img src ="https://img.shields.io/badge/-axios-skyblue">
 - ✍🏻 Tools  
   <img src ="https://img.shields.io/badge/-Git-salmon"> <img src ="https://img.shields.io/badge/-postman-purple"> <img src ="https://img.shields.io/badge/-figma-orange">  
 
