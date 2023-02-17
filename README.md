@@ -4,7 +4,7 @@
 
 
 - ✍🏻 Programming Language  
-  <img src ="https://img.shields.io/badge/-javaScript-yellow"> <img src ="https://img.shields.io/badge/-HTML-orange"> <img src ="https://img.shields.io/badge/-CSS-green"> <img src ="https://img.shields.io/badge/-TypeScript-blue">
+  <img src ="https://img.shields.io/badge/-javaScript-yellow"> <img src ="https://img.shields.io/badge/-HTML-orange"> <img src ="https://img.shields.io/badge/-CSS-green"> <img src ="https://img.shields.io/badge/-TypeScript-blue"> <img src ="https://img.shields.io/badge/-Next.js-purple">
 - ✍🏻 FrameWork & Library  
   <img src ="https://img.shields.io/badge/-React-navy"> <img src ="https://img.shields.io/badge/-redux-grey"> <img src ="https://img.shields.io/badge/-axios-skyblue">
 - ✍🏻 Tools  
